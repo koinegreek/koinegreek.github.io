@@ -1,0 +1,38 @@
+{"ch": [    
+    {
+        "reader"    : "Shmuelof",                
+        "book"      : "Ruth",
+        "chapter"   : 1,        
+        "Greek"     : false,
+        "Hebrew"    : true,
+        "soundFile" : "./media/Shmuelof/08-Ruth/Shm_Ruth_01.mp3",
+        "cuesFile"  : "./media/Shmuelof/08-Ruth/Shm_Ruth_MT_01.json"
+    },    
+    {
+        "reader"    : "Shmuelof",                
+        "book"      : "Ruth",
+        "chapter"   : 2,        
+        "Greek"     : false,
+        "Hebrew"    : true,
+        "soundFile" :"./media/Shmuelof/08-Ruth/Shm_Ruth_02.mp3",
+        "cuesFile"  : "./media/Shmuelof/08-Ruth/Shm_Ruth_MT_02.json"
+    },    
+    {
+        "reader"    : "Shmuelof",                
+        "book"      : "Ruth",
+        "chapter"   : 3,        
+        "Greek"     : false,
+        "Hebrew"    : true,
+        "soundFile" : "./media/Shmuelof/08-Ruth/Shm_Ruth_03.mp3",
+        "cuesFile"  : "./media/Shmuelof/08-Ruth/Shm_Ruth_MT_03.json"
+    },    
+    {
+        "reader"    : "Shmuelof",                
+        "book"      : "Ruth",
+        "chapter"   : 4,        
+        "Greek"     : false,
+        "Hebrew"    : true,
+        "soundFile" : "./media/Shmuelof/08-Ruth/Shm_Ruth_04.mp3",
+        "cuesFile"  : "./media/Shmuelof/08-Ruth/Shm_Ruth_MT_04.json"
+    }    
+]}

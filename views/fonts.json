@@ -1,0 +1,53 @@
+{"font": [	 
+     {
+        "fontFamily"        : "Select Font",              
+        "txtWindowDefault"  : false,
+        "consoleDefault"    : false 
+    },
+	{
+        "fontFamily"        : "Times New Roman",              
+        "txtWindowDefault"  : false,
+        "consoleDefault"    : false 
+    },
+	{
+        "fontFamily"        : "Georgia",                
+        "txtWindowDefault"  : false,
+        "consoleDefault"    : false 
+    },
+	{
+        "fontFamily"        : "Verdana",                
+        "txtWindowDefault"  : false,
+        "consoleDefault"    : false 
+    },
+	{
+        "fontFamily"        : "Courier New",                
+        "txtWindowDefault"  : false,
+        "consoleDefault"    : false 
+    },
+	{
+        "fontFamily"        : "Impact",                
+        "txtWindowDefault"  : false,
+        "consoleDefault"    : false 
+    },
+    {
+        "fontFamily"        : "Arial",                
+        "txtWindowDefault"  : false,
+        "consoleDefault"    : false 
+    },
+    {
+        "fontFamily"        : "SBL Greek",                
+        "txtWindowDefault"  : true,
+        "consoleDefault"    : false 
+    },
+    {
+        "fontFamily"        : "Arial Black",                
+        "txtWindowDefault"  : false,
+        "consoleDefault"    : false 
+    }
+]}
+
+
+
+
+
+

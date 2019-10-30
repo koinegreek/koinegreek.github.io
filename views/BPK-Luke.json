@@ -1,0 +1,218 @@
+{"ch": [    
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 1,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_01.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_01.json"
+    },    
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 2,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_02.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_02.json"
+    },    
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 3,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_03.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_03.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 4,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_04.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_04.json"
+    },    
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 5,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_05.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_05.json"
+    },  
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 6,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_06.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_06.json"
+    },  
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 7,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_07.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_07.json"
+    },      
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 8,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_08.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_08.json"
+    },      
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 9,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_09.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_09.json"
+    },      
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "chapter"   : 10,        
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_10.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_10.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "chapter"   : 11,        
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_11.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_11.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "chapter"   : 12,        
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_12.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_12.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "chapter"   : 13,        
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_13.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_13.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 14,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_14.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_14.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 15,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_15.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_15.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 16,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_16.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_16.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 17,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_17.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_17.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 18,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_18.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_18.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 19,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_19.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_19.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 20,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_20.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_20.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 21,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_21.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_21.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 22,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_22.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_22.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 23,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_23.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_23.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Luke",
+        "chapter"   : 24,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/03-Luke/BPK_Luke_24.mp3",
+        "cuesFile"  : "./media/BPK/03-Luke/BPK_Luke_24.json"
+    }
+]}

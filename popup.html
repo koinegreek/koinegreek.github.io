@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Colours</title>
+
+<script language="JavaScript">	
+	function prompts(form) {	  
+	  window.opener.newBkgrndColour = form.bkgrndColour.value;
+	  window. opener.newTextColour = form.textColour.value;   
+
+	  window.opener.textSpace.style.backgroundColor = form.bkgrndColour.value;
+	  
+	  window.opener.textSpace.style.color  = form.textColour.value;
+
+
+	  self.close();
+	  return false;
+	}
+
+	function cancel() {
+	 self.close();
+	  return false;
+	}
+</script>
+
+</head>
+
+<body onLoad="document.myform.bkgrndColour.focus()">
+
+<form id="myForm" onSubmit="return prompts(this)" onReset="cancel()">
+Background Colour: <input type="text" id="bkgrndColour">
+<br>
+Text Colour:&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<input type="text" id="textColour"> 
+<br><br>
+<input type="submit" value="  ok  "> <input type="reset" value="  cancel  ">
+</form>
+
+</body>
+
+</html>

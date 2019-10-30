@@ -1,0 +1,268 @@
+{
+    "chapter": [
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 0,
+            "cueNdx": 0,
+            "cueTime": 0,
+            "cueText": "Introduction to Romans 6"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 1,
+            "cueNdx": 1,
+            "cueTime": 3728,
+            "cueText": " Τί οὖν ἐροῦμεν; ἐπιμενοῦμεν τῇ ἁμαρτίᾳ ἵνα ἡ χάρις πλεονάσῃ;\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 2,
+            "cueNdx": 2,
+            "cueTime": 9175,
+            "cueText": " μὴ γένοιτο οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ;\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 3,
+            "cueNdx": 3,
+            "cueTime": 15071,
+            "cueText": " ἢ ἀγνοεῖτε ὅτι ὅσοι ἐβαπτίσθημεν εἰς Χριστὸν Ἰησοῦν εἰς τὸν θάνατον αὐτοῦ ἐβαπτίσθημεν;\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 4,
+            "cueNdx": 4,
+            "cueTime": 22021,
+            "cueText": " συνετάφημεν οὖν αὐτῷ διὰ τοῦ βαπτίσματος εἰς τὸν θάνατον, ἵνα ὥσπερ ἠγέρθη Χριστὸς ἐκ νεκρῶν διὰ τῆς δόξης τοῦ πατρός, οὕτω καὶ ἡμεῖς ἐν καινότητι ζωῆς περιπατήσωμεν\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 5,
+            "cueNdx": 5,
+            "cueTime": 33892,
+            "cueText": " εἰ γὰρ σύμφυτοι γεγόναμεν τῷ ὁμοιώματι τοῦ θανάτου αὐτοῦ, ἀλλὰ καὶ τῆς ἀναστάσεως ἐσόμεθα,\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 6,
+            "cueNdx": 6,
+            "cueTime": 40314,
+            "cueText": " τοῦτο γινώσκοντες, ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας, τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 7,
+            "cueNdx": 7,
+            "cueTime": 50063,
+            "cueText": " ὁ γὰρ ἀποθανὼν δεδικαίωται ἀπὸ τῆς ἁμαρτίας\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 8,
+            "cueNdx": 8,
+            "cueTime": 53354,
+            "cueText": " εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ, πιστεύομεν ὅτι καὶ συζήσομεν αὐτῷ,\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 9,
+            "cueNdx": 9,
+            "cueTime": 58608,
+            "cueText": " εἰδότες ὅτι Χριστὸς ἐγερθεὶς ἐκ νεκρῶν οὐκέτι ἀποθνῄσκει, θάνατος αὐτοῦ οὐκέτι κυριεύει\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 10,
+            "cueNdx": 10,
+            "cueTime": 65718,
+            "cueText": " ὃ γὰρ ἀπέθανε, τῇ ἁμαρτίᾳ ἀπέθανεν ἐφάπαξ, ὃ δὲ ζῇ, ζῇ τῷ Θεῷ\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 11,
+            "cueNdx": 11,
+            "cueTime": 72027,
+            "cueText": " οὕτω καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς νεκροὺς μὲν εἶναι τῇ ἁμαρτίᾳ, ζῶντας δὲ τῷ Θεῷ ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 12,
+            "cueNdx": 12,
+            "cueTime": 80170,
+            "cueText": " Μὴ οὖν βασιλευέτω ἡ ἁμαρτία ἐν τῷ θνητῷ ὑμῶν σώματι εἰς τὸ ὑπακούειν αὐτῇ ἐν ταῖς ἐπιθυμίαις αὐτοῦ,\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 13,
+            "cueNdx": 13,
+            "cueTime": 86470,
+            "cueText": " μηδὲ παριστάνετε τὰ μέλη ὑμῶν ὅπλα ἀδικίας τῇ ἁμαρτίᾳ, ἀλλὰ παραστήσατε ἑαυτοὺς τῷ Θεῷ ὡς ἐκ νεκρῶν ζῶντας καὶ τὰ μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ Θεῷ\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 14,
+            "cueNdx": 14,
+            "cueTime": 97098,
+            "cueText": " ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει οὐ γάρ ἐστε ὑπὸ νόμον, ἀλλ᾽ ὑπὸ χάριν\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 15,
+            "cueNdx": 15,
+            "cueTime": 103463,
+            "cueText": " Τί οὖν; ἁμαρτήσομεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ᾽ ὑπὸ χάριν; μὴ γένοιτο\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 16,
+            "cueNdx": 16,
+            "cueTime": 109879,
+            "cueText": " οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην;\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 17,
+            "cueNdx": 17,
+            "cueTime": 120151,
+            "cueText": " χάρις δὲ τῷ Θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς,\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 18,
+            "cueNdx": 18,
+            "cueTime": 128580,
+            "cueText": " ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 19,
+            "cueNdx": 19,
+            "cueTime": 133627,
+            "cueText": " ἀνθρώπινον λέγω διὰ τὴν ἀσθένειαν τῆς σαρκὸς ὑμῶν ὥσπερ γὰρ παρεστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ ἀκαθαρσίᾳ καὶ τῇ ἀνομίᾳ εἰς τὴν ἀνομίαν, οὕτω νῦν παραστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ δικαιοσύνῃ εἰς ἁγιασμόν\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 20,
+            "cueNdx": 20,
+            "cueTime": 148365,
+            "cueText": " ὅτε γὰρ δοῦλοι ἦτε τῆς ἁμαρτίας, ἐλεύθεροι ἦτε τῇ δικαιοσύνῃ\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 21,
+            "cueNdx": 21,
+            "cueTime": 153412,
+            "cueText": " τίνα οὖν καρπὸν εἴχετε τότε ἐφ᾽ οἷς νῦν ἐπαισχύνεσθε; τὸ γὰρ τέλος ἐκείνων θάνατος\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 22,
+            "cueNdx": 22,
+            "cueTime": 160337,
+            "cueText": " νυνὶ δέ ἐλευθερωθέντες ἀπὸ τῆς ἁμαρτίας δουλωθέντες δὲ τῷ Θεῷ ἔχετε τὸν καρπὸν ὑμῶν εἰς ἁγιασμόν, τὸ δὲ τέλος ζωὴν αἰώνιον\r\n"
+        },
+        {
+            "testament": "NT",
+            "book": "Romans",
+            "chapter": "6",
+            "textSrc": "GOC",
+            "language": "Greek",
+            "verseNum": 23,
+            "cueNdx": 23,
+            "cueTime": 169932,
+            "cueText": " τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ Θεοῦ ζωὴ αἰώνιος ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν "
+        }
+    ]
+}

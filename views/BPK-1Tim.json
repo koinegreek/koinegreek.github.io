@@ -1,0 +1,38 @@
+{"ch": [    
+    {
+        "reader"    : "BPK",                
+        "book"      : "1 Timothy",
+        "chapter"   : 1,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/15-1Timothy/BPK_1Timothy_01.mp3",
+        "cuesFile"  : "./media/BPK/15-1Timothy/BPK_1Timothy_01.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "1 Timothy",
+        "chapter"   : 2,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/15-1Timothy/BPK_1Timothy_02.mp3",
+        "cuesFile"  : "./media/BPK/15-1Timothy/BPK_1Timothy_02.json"
+    },    
+    {
+        "reader"    : "BPK",                
+        "book"      : "1 Timothy",
+        "chapter"   : 3,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/15-1Timothy/BPK_1Timothy_03.mp3",
+        "cuesFile"  : "./media/BPK/15-1Timothy/BPK_1Timothy_03.json"
+    },    
+    {
+        "reader"    : "BPK",                
+        "book"      : "1 Timothy",
+        "chapter"   : 4,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/15-1Timothy/BPK_1Timothy_04.mp3",
+        "cuesFile"  : "./media/BPK/15-1Timothy/BPK_1Timothy_04.json"
+    }    
+]}

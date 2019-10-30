@@ -1,0 +1,57 @@
+{"ch": [
+    {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 1,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/02-Mark/BPK_Mark_01.mp3",
+        "cuesFile"  : "./media/BPK/02-Mark/BPK_Mark_01.json"
+    },
+   {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 2,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/02-Mark/BPK_Mark_02.mp3",
+        "cuesFile"  : "./media/BPK/02-Mark/BPK_Mark_02.json"
+    },
+   {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 3,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/02-Mark/BPK_Mark_03.mp3",
+        "cuesFile"  : "./media/BPK/02-Mark/BPK_Mark_03.json"
+    },
+   {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 4,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/02-Mark/BPK_Mark_04.mp3",
+        "cuesFile"  : "./media/BPK/02-Mark/BPK_Mark_04.json"
+    },
+   {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 5,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/02-Mark/BPK_Mark_05.mp3",
+        "cuesFile"  : "./media/BPK/02-Mark/BPK_Mark_05.json"
+    },
+   {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 6,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "./media/BPK/02-Mark/BPK_Mark_06.mp3",
+        "cuesFile"  : "./media/BPK/02-Mark/BPK_Mark_06.json"
+    }
+    
+]}
