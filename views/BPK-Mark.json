@@ -5,8 +5,8 @@
         "chapter"   : 1,        
         "Greek"     : true,
         "Hebrew"    : false,
-        "soundFile" : "./media/BPK/02-Mark/BPK_Mark_01.mp3",
-        "cuesFile"  : "./media/BPK/02-Mark/BPK_Mark_01.json"
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_01.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_01.json"
     },
    {
         "reader"    : "BPK",                
@@ -14,8 +14,8 @@
         "chapter"   : 2,        
         "Greek"     : true,
         "Hebrew"    : false,
-        "soundFile" : "./media/BPK/02-Mark/BPK_Mark_02.mp3",
-        "cuesFile"  : "./media/BPK/02-Mark/BPK_Mark_02.json"
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_02.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_02.json"
     },
    {
         "reader"    : "BPK",                
@@ -23,8 +23,8 @@
         "chapter"   : 3,        
         "Greek"     : true,
         "Hebrew"    : false,
-        "soundFile" : "./media/BPK/02-Mark/BPK_Mark_03.mp3",
-        "cuesFile"  : "./media/BPK/02-Mark/BPK_Mark_03.json"
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_03.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_03.json"
     },
    {
         "reader"    : "BPK",                
@@ -32,8 +32,8 @@
         "chapter"   : 4,        
         "Greek"     : true,
         "Hebrew"    : false,
-        "soundFile" : "./media/BPK/02-Mark/BPK_Mark_04.mp3",
-        "cuesFile"  : "./media/BPK/02-Mark/BPK_Mark_04.json"
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_04.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_04.json"
     },
    {
         "reader"    : "BPK",                
@@ -41,8 +41,8 @@
         "chapter"   : 5,        
         "Greek"     : true,
         "Hebrew"    : false,
-        "soundFile" : "./media/BPK/02-Mark/BPK_Mark_05.mp3",
-        "cuesFile"  : "./media/BPK/02-Mark/BPK_Mark_05.json"
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_05.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_05.json"
     },
    {
         "reader"    : "BPK",                
@@ -50,8 +50,98 @@
         "chapter"   : 6,        
         "Greek"     : true,
         "Hebrew"    : false,
-        "soundFile" : "./media/BPK/02-Mark/BPK_Mark_06.mp3",
-        "cuesFile"  : "./media/BPK/02-Mark/BPK_Mark_06.json"
-    }
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_06.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_06.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 7,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_07.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_07.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 8,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_08.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_08.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 9,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_09.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_09.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 10,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_10.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_10.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 11,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_11.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_11.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 12,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_12.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_12.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 13,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_13.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_13.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 14,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_14.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_14.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 15,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_15.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_15.json"
+    },
+    {
+        "reader"    : "BPK",                
+        "book"      : "Mark",
+        "chapter"   : 16,        
+        "Greek"     : true,
+        "Hebrew"    : false,
+        "soundFile" : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_16.mp3",
+        "cuesFile"  : "https://b-s-space.nyc3.digitaloceanspaces.com/media/BPK/02-Mark/BPK_Mark_16.json"
+    }   
     
 ]}
