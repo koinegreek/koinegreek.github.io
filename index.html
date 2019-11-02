@@ -1,16 +1,24 @@
 <!DOCTYPE html>
 <html>
-
-<head>
+  <head>
     <meta charset="utf-8">
     <title>Audio Player</title>
+    <!-- <link rel="stylesheet" href="./views/style_no_grid.css" type="text/css"> -->
     <link rel="stylesheet" href="./views/style.css" type="text/css">
-</head>
-
-<body id='bodyID' onload='main()'>
-    <table id='table1'></table>
-    <script type="text/javascript" src="./scripts/index.js"></script>
+    <link rel="stylesheet" href="./views/fonts.css" type="text/css">
+  </head>
+  <body id='bodyID' onload='main()'>
+    <table id='table1'></table>     
+    
+    <!-- START of html to be replaced by index.js -->  
+     
+    <script type="text/javascript" src="../scripts/index.js"></script>
+    <!--  This file (below) - the main audio js file - is loaded by index.js (above)
+    <script type="text/javascript" src="./scripts/controls.js" defer></script> -->
+    
+    <!-- aws-sdk for javascript -->
     <script src="https://sdk.amazonaws.com/js/aws-sdk-2.542.0.min.js"></script>
+
     <script type="text/javascript">
         // appleWarning();
         // function appleWarning(){
@@ -20,14 +28,17 @@
         //       document.getElementById('textSpace').innerHTML = msg
         //     }
         // }
-        function main() {
-            if ('CSS' in window && CSS.supports('display', 'grid')) {
-                gridDisplay();
-            } else {
-                tableDisplay();
-            }
-        }
-    </script>
-</body>
 
+        
+
+        function main(){
+          if ('CSS' in window && CSS.supports('display', 'grid')) {
+              gridDisplay();
+          } else {
+            tableDisplay();
+          }
+        }  
+        
+      </script>
+  </body>
 </html>
