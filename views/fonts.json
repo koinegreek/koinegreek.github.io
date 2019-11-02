@@ -6,7 +6,7 @@
     },     
     {
         "fontFamily"        : "BIBLICAL Uncial",                
-        "txtWindowDefault"  : false,
+        "txtWindowDefault"  : true,
         "consoleDefault"    : false 
     },     
     {
