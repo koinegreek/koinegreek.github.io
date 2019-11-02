@@ -3,67 +3,22 @@
         "fontFamily"        : "Select Font",              
         "txtWindowDefault"  : false,
         "consoleDefault"    : false 
-    },
-     {
-        "fontFamily"        : "AlexBrush-Regular",              
-        "txtWindowDefault"  : false,
-        "consoleDefault"    : false 
-    },
-    {
-        "fontFamily"        : "Arial",                
-        "txtWindowDefault"  : true,
-        "consoleDefault"    : false 
-    },
-    {
-        "fontFamily"        : "Arial Black",                
-        "txtWindowDefault"  : false,
-        "consoleDefault"    : false 
-    },
+    },     
     {
         "fontFamily"        : "BIBLICAL Uncial",                
         "txtWindowDefault"  : false,
         "consoleDefault"    : false 
-    },
-    {
-        "fontFamily"        : "Courier New",                
-        "txtWindowDefault"  : false,
-        "consoleDefault"    : false 
-    },
-    {
-        "fontFamily"        : "Georgia",                
-        "txtWindowDefault"  : false,
-        "consoleDefault"    : false 
-    },
-    {
-        "fontFamily"        : "Impact",                
-        "txtWindowDefault"  : false,
-        "consoleDefault"    : false 
-    },
-    {
-        "fontFamily"        : "KaushanScript-Regular",              
-        "txtWindowDefault"  : false,
-        "consoleDefault"    : false 
-    },
+    },     
     {
         "fontFamily"        : "PAPYRUS Uncial",              
         "txtWindowDefault"  : false,
         "consoleDefault"    : false 
-    },
-    {
-        "fontFamily"        : "SBL Greek",                
-        "txtWindowDefault"  : false,
-        "consoleDefault"    : false 
-    },
+    },    
 	{
         "fontFamily"        : "Times New Roman",              
         "txtWindowDefault"  : false,
         "consoleDefault"    : false 
-    },        
-	{
-        "fontFamily"        : "Verdana",                
-        "txtWindowDefault"  : false,
-        "consoleDefault"    : false 
-    }    
+    }  
 ]}
 
 
