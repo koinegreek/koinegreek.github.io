@@ -1,0 +1,79 @@
+{"readers": [
+	{
+		"firstName"	: "Apostolos",		 		
+		"lastName" 	: "Vavylis",
+		"briefName" : "fr Rafael / Mark",		
+		"default"	: false,
+		"file"		: "./views/Rafael-Mark.json"
+	},
+	{
+		"firstName"	: "Apostolos",		 		
+		"lastName" 	: "Vavylis",
+		"briefName" : "fr Rafael / John",		
+		"default"	: false,
+		"file"		: "./views/Rafael-John.json"
+	},
+	{
+		"firstName"	: "Apostolos",		 		
+		"lastName" 	: "Vavylis",
+		"briefName" : "fr Rafael / Acts",		
+		"default"	: true,
+		"file"		: "./views/Rafael-Acts.json"
+	},
+	{
+		"firstName"	: "Apostolos",		 		
+		"lastName" 	: "Vavylis",
+		"briefName" : "fr Rafael / Rom",		
+		"default"	: false,
+		"file"		: "./views/Rafael-Rom.json"
+	},
+	{
+		"firstName"	: "Apostolos",		 		
+		"lastName" 	: "Vavylis",
+		"briefName" : "fr Rafael / Rev",		
+		"default"	: false,
+		"file"		: "./views/Rafael-Rev.json"
+	},
+	{
+		"firstName"	: "Benjamin",		  		
+		"lastName" 	: "Kantor",
+		"briefName" : "BPK / Mark",		
+		"default"	: true,
+		"file"		: "./views/BPK-Mark.json"
+	},	
+	{
+		"firstName"	: "Benjamin",		  		
+		"lastName" 	: "Kantor",
+		"briefName" : "BPK / Luke",		
+		"default"	: false,
+		"file"		: "./views/BPK-Luke.json"
+	},	
+	{
+		"firstName"	: "Benjamin",		  		
+		"lastName" 	: "Kantor",
+		"briefName" : "BPK / 1Tim",		
+		"default"	: false,
+		"file"		: "./views/BPK-1Tim.json"
+	},	
+	{
+		"firstName"	: "Yehoshua",		 		
+		"lastName" 	: "Bertonov",
+		"briefName" : "Bertanov / Gen",		
+		"default"	: false,
+		"file"		: "./views/Bertonov-Gen.json"
+	},
+	{
+		"firstName"	: "Abraham",		 		
+		"lastName" 	: "Shmuelof",
+		"briefName" : "Shmuelof / Ruth",		
+		"default"	: false,
+		"file"		: "./views/Shmuelof-Ruth.json"
+	}
+
+]}
+
+
+
+
+
+
