@@ -59,33 +59,6 @@ var defaultSettings = {
 ]}
 
 
-// ******************** load the .env file ******************
-// This is a one-time initialization at startup
-loadEnvVars ('.env')
-
-function loadEnvVars (fileToLoad){
-    var xhr = new XMLHttpRequest();
-    xhr.onreadystatechange = function() {
-        if (xhr.readyState == 4 && xhr.status == 200) {
-            //document.getElementById('placeholder').innerHTML = xhr.responseText;
-            EnvVars = JSON.parse(xhr.responseText);
-        
-            accessKey = EnvVars.AWS_ACCESS_KEY_ID 
-            secretKey = EnvVars.AWS_SECRET_ACCESS_KEY  
-
-            s3={
-                "ACCESS_KEY_ID"     : accessKey,
-                "SECRET_ACCESS_KEY" : secretKey,
-                "endpoint"          : endPoint 
-            }     
-        }
-    }
-    xhr.open('GET', fileToLoad);
-    //XMLHttpRequest.setRequestHeader(header, value)
-    xhr.send();  
-}
-// ******************** end load .env file *******************
-
 
 // ********** temp ****************
 
