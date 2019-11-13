@@ -58,7 +58,12 @@ var defaultSettings = {
     }    
 ]}
 
-
+var startupFlag = true;
+var accessKey = "";
+var secretKey = "";
+// var endPoint = "nyc3.digitaloceanspaces.com";   
+var AWS;
+var s3;
 
 // ********** temp ****************
 
