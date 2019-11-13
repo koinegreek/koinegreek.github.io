@@ -90,7 +90,7 @@ function loadEnvVars (fileToLoad){
 // ********** temp ****************
 
 aS.addEventListener('change', function(event) {
-  //if(event.request.url === 'https://github.com/koinegreek/koinegreek.github.io/blob/master/media/Rafael/05-Acts/Raf_Acts_12.mp3') {
+  //if(event.request.url === './media/Rafael/05-Acts/Raf_Acts_12.mp3') {
     // event.respondWith(
     //     fetch(event.request.url, {
     //         method: "GET",
@@ -114,7 +114,7 @@ aS.addEventListener('change', function(event) {
 
 // ******************** load the reader file ******************
 // This is a one-time initialization at startup
-loadReadersFile ('https://github.com/koinegreek/koinegreek.github.io/blob/master/views/readers.json')
+loadReadersFile ('./views/readers.json')
 
 function loadReadersFile (fileToLoad){
     var xhr = new XMLHttpRequest();
@@ -153,7 +153,7 @@ function loadReadersFile (fileToLoad){
 
 // ******************** load the default settings ******************
 // This is a one-time initialization at startup
-loadDefaultSettings ('https://github.com/koinegreek/koinegreek.github.io/blob/master/views/settings.json')
+loadDefaultSettings ('./views/settings.json')
 
 function loadDefaultSettings (fileToLoad){
     var xhr = new XMLHttpRequest();
@@ -208,7 +208,7 @@ function loadDefaultSettings (fileToLoad){
 
 // ******************** load the font file ******************
 // This is a one-time initialization at startup
-loadFontsFile (' https://github.com/koinegreek/koinegreek.github.io/blob/master/views/fonts.json')
+loadFontsFile (' ./views/fonts.json')
                 
 function loadFontsFile (fileToLoad){
     var xhr = new XMLHttpRequest();
@@ -401,7 +401,7 @@ helpText.addEventListener('click', function() {
       var popW = 600, popH = 400;
       var leftPos = (w-popW)/2, topPos = (h-popH)/2;
 
-      newW = window.open('https://github.com/koinegreek/koinegreek.github.io/blob/master/public/help.html','windowName','width=' + popW + ',height=' + popH + 
+      newW = window.open('./public/help.html','windowName','width=' + popW + ',height=' + popH + 
                             ',top=' + topPos + ',left=' + leftPos);
 })
 
@@ -421,11 +421,11 @@ myControls.addEventListener('touchstart', function(){
 // mute / unmute
 volBtn.addEventListener('click', function(){
     if (audioID.muted == false) {      
-      muteBtnImage.src = "https://github.com/koinegreek/koinegreek.github.io/blob/master/images/muteBtn.png" ;
+      muteBtnImage.src = "./images/muteBtn.png" ;
       audioID.muted = true;
    }
    else {
-      muteBtnImage.src = "https://github.com/koinegreek/koinegreek.github.io/blob/master/images/unMuteBtn.png";
+      muteBtnImage.src = "./images/unMuteBtn.png";
       audioID.muted = false;
    }
 })
@@ -528,7 +528,7 @@ function updateCurrentChapter(){
 }
 
 audioID.addEventListener('canplay', function(){
-    playImage.src = "https://github.com/koinegreek/koinegreek.github.io/blob/master/images/playBtn.png";
+    playImage.src = "./images/playBtn.png";
 })
 
 // play/pause
@@ -536,12 +536,12 @@ playPauseBtn.addEventListener('click', function() {
         
         if (audioID.paused ) {                          //|| audioID.ended
           playPauseBtn.title = "pause";
-          playImage.src = "https://github.com/koinegreek/koinegreek.github.io/blob/master/images/pauseBtn.png" ;
+          playImage.src = "./images/pauseBtn.png" ;
           audioID.play();
         }
         else if(audioID.currentTime >0 ){
           playPauseBtn.title = "play";
-          playImage.src = "https://github.com/koinegreek/koinegreek.github.io/blob/master/images/playBtn.png";
+          playImage.src = "./images/playBtn.png";
           audioID.pause();
        }
    
@@ -566,7 +566,7 @@ scrColBtn.addEventListener('click', function ()  {
       var popW = 400, popH = 150;
       var leftPos = (w-popW)/2, topPos = (h-popH)/2;
 
-      newW = window.open('https://github.com/koinegreek/koinegreek.github.io/blob/master/public/popup.html','windowName','width=' + popW + ',height=' + popH + 
+      newW = window.open('./public/popup.html','windowName','width=' + popW + ',height=' + popH + 
                             ',top=' + topPos + ',left=' + leftPos);
 
       
@@ -582,7 +582,7 @@ scrColBtn.addEventListener('click', function ()  {
 
 // if the audio ends - adjust the play-pause image
 audioID.addEventListener('ended', function() {
-    playImage.src = "https://github.com/koinegreek/koinegreek.github.io/blob/master/images/playBtn.png";
+    playImage.src = "./images/playBtn.png";
 })
 
 // select playmode
