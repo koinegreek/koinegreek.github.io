@@ -1,12 +1,13 @@
 {"settings": [	 
      {
-        "screenColour"      : "#00FFFFFF",              
+        "screenColour"      : "#ffffcc",              
         "scrTextColour"     : "#581845",
+        "screenImage"       : "./images/parchment-TD-435347.png",
         "consoleColour"		: "#444",
         "consoleTextColour"	: "#FFF",
         "consoleFontFamily"	: "Times New Roman",
         "pageColour"		: "#4e5f7a",  
-        "readerBookLabel"  	: "Reader: BPK <br>Book",
+        "readerBookLabel"  	: "Book",
         "gridLines"			: "#4e5f7a"
     }	
 ]}
