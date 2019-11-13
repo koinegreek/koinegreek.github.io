@@ -1,6 +1,6 @@
 {"settings": [	 
      {
-        "screenColour"      : "#FFFFFFFF",              
+        "screenColour"      : "#00FFFFFF",              
         "scrTextColour"     : "#581845",
         "consoleColour"		: "#444",
         "consoleTextColour"	: "#FFF",
