@@ -1,28 +1,33 @@
-{"font": [     
-     {
-        "fontFamily"        : "Select Font",              
-        "txtWindowDefault"  : false,
-        "consoleDefault"    : false 
-    },     
-    {
-        "fontFamily"        : "BIBLICAL Uncial",                
-        "txtWindowDefault"  : true,
-        "consoleDefault"    : false 
-    },     
-    {
-        "fontFamily"        : "PAPYRUS Uncial",              
-        "txtWindowDefault"  : false,
-        "consoleDefault"    : false 
-    },    
-	{
-        "fontFamily"        : "Times New Roman",              
-        "txtWindowDefault"  : false,
-        "consoleDefault"    : false 
-    }  
-]}
-
-
-
-
-
-
+{
+    "font": [{
+            "fontFamily": "Select Font",
+            "txtWindowDefault": false,
+            "consoleDefault": false
+        },
+        {
+            "fontFamily": "BIBLICAL Uncial",
+            "txtWindowDefault": true,
+            "consoleDefault": false
+        },
+        {
+            "fontFamily": "PAPYRUS Uncial",
+            "txtWindowDefault": false,
+            "consoleDefault": false
+        },
+        {
+            "fontFamily": "Minuscule XI",
+            "txtWindowDefault": false,
+            "consoleDefault": false
+        },
+        {
+            "fontFamily": "Minuscule XV",
+            "txtWindowDefault": false,
+            "consoleDefault": false
+        },
+        {
+            "fontFamily": "Times New Roman",
+            "txtWindowDefault": false,
+            "consoleDefault": false
+        }
+    ]
+}
