@@ -334,7 +334,9 @@ function displayCue(nextCue) {
     if (cueFileAvailable && includeText.checked == true) {
         var x = cueFile.chapter[nextCue];
         var textOut = x.book + " " + x.chapter + ":" + x.verseNum + "  " + x.cueText;
-        document.getElementById('textSpace').innerHTML = textOut;
+        if (textOut.length > 5){
+            document.getElementById('textSpace').innerHTML = textOut;
+        }
     }
 }
 
