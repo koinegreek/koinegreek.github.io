@@ -7,7 +7,7 @@
         "consoleTextColour" : "#000000",
         "consoleFontFamily" : "Times New Roman",
         "pageColour"        : "#ebf9ff",  
-        "readerBookLabel"   : "Reader: BPK<b>Book",
+        "readerBookLabel"   : "Reader: BPK<br>Book",
         "gridLines"         : "#ebf9ff"
     }   
 ]}
