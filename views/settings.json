@@ -3,12 +3,12 @@
         "screenColour"      : "#ebf9ff",              
         "scrTextColour"     : "#000000",
         "screenImage"       : "./images/parchment-TD-435347.png",
-        "consoleColour"		: "#444",
-        "consoleTextColour"	: "#FFF",
+        "consoleColour"		: "#ebf9ff",
+        "consoleTextColour"	: "#000000",
         "consoleFontFamily"	: "Times New Roman",
-        "pageColour"		: "#4e5f7a",  
+        "pageColour"		: "#ebf9ff",  
         "readerBookLabel"  	: "Book",
-        "gridLines"			: "#4e5f7a"
+        "gridLines"			: "#ebf9ff"
     }	
 ]}
 
