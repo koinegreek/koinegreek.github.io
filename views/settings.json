@@ -1,15 +1,15 @@
 {"settings": [	 
-     {
+      {
         "screenColour"      : "#ebf9ff",              
         "scrTextColour"     : "#000000",
         "screenImage"       : "./images/parchment-TD-435347_2.png",
-        "consoleColour"		: "#ebf9ff",
-        "consoleTextColour"	: "#000000",
-        "consoleFontFamily"	: "Times New Roman",
-        "pageColour"		: "#ebf9ff",  
-        "readerBookLabel"  	: "Book",
-        "gridLines"			: "#ebf9ff"
-    }	
+        "consoleColour"     : "#ebf9ff",
+        "consoleTextColour" : "#000000",
+        "consoleFontFamily" : "Times New Roman",
+        "pageColour"        : "#ebf9ff",  
+        "readerBookLabel"   : "Reader: BPK<b>Book",
+        "gridLines"         : "#ebf9ff"
+    }   
 ]}
 
 
