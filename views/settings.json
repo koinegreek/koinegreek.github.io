@@ -1,7 +1,7 @@
 {"settings": [	 
      {
-        "screenColour"      : "#ffffcc",              
-        "scrTextColour"     : "#581845",
+        "screenColour"      : "#ebf9ff",              
+        "scrTextColour"     : "#000000",
         "screenImage"       : "./images/parchment-TD-435347.png",
         "consoleColour"		: "#444",
         "consoleTextColour"	: "#FFF",
