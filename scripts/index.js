@@ -81,8 +81,8 @@ function tableDisplay() {
     td = addCell (tr, "<div class='box k' d='box k'></div>" +
             "<label id='fontLabel'>font<br></label>" +
             "<select id='fontFamilies' name='myDropDn3'></select>" +
-            "<button id='fontUp'><img src='https://github.com/koinegreek/koinegreek.github.io/blob/master/images/fontSzUp.png'  width='17px'></button>" +
-            "<button id='fontDown'><img src='https://github.com/koinegreek/koinegreek.github.io/blob/master/images/fontSzDn.png' width='17px'></button>");  
+            "<button id='fontUp'><img src='../images/fontSzUp.png'  width='17px'></button>" +
+            "<button id='fontDown'><img src='../images/fontSzDn.png' width='17px'></button>");  
     td.setAttribute('id', 'row6_Cell2') 
 
     // row 7
@@ -99,16 +99,16 @@ function tableDisplay() {
      
     // cell 3
     td = addCell (tr, "<div class='box j' id='myControls'>" +
-              "<button id='repeatBtn'><img id='repeatPassageImage' src='https://github.com/koinegreek/koinegreek.github.io/blob/master/images/repeatBtn.png'></img></button>" +
-              "<button id='previousVerse'><img id='previousVerseImage' src='https://github.com/koinegreek/koinegreek.github.io/blob/master/images/previousVerse.png'></button>" +
+              "<button id='repeatBtn'><img id='repeatPassageImage' src='../images/repeatBtn.png'></img></button>" +
+              "<button id='previousVerse'><img id='previousVerseImage' src='../images/previousVerse.png'></button>" +
               
               "<audio id='audioID' controls controlslist='nodownload'><source id='aS' src='' type='audio/mpeg'></audio>" +
               
-              "<button id='playPauseBtn' ><img id='playImage' src='https://github.com/koinegreek/koinegreek.github.io/blob/master/images/playBtn.png'></img> </button>"  +
-              "<button id='nextVerse'><img id='nextVerseImage' src='https://github.com/koinegreek/koinegreek.github.io/blob/master/images/nextVerse.png'></button>" +
-              "<button id='lastVerse'><img id='lastVerseImage' src='https://github.com/koinegreek/koinegreek.github.io/blob/master/images/lastVerseBtn.png'></img></button>" +
+              "<button id='playPauseBtn' ><img id='playImage' src='../images/playBtn.png'></img> </button>"  +
+              "<button id='nextVerse'><img id='nextVerseImage' src='../images/nextVerse.png'></button>" +
+              "<button id='lastVerse'><img id='lastVerseImage' src='../images/lastVerseBtn.png'></img></button>" +
               "<label id='curTimeLabel' >0.0 / 0.0</label>" +
-              "<button id='volBtn'><img id='muteBtnImage' src='https://github.com/koinegreek/koinegreek.github.io/blob/master/images/unMuteBtn.png'></button>" +
+              "<button id='volBtn'><img id='muteBtnImage' src='../images/unMuteBtn.png'></button>" +
               "<input id='volCtrlSlider' type='range' min='0' max='100' value='40' step='1'></input>");
 
       td.setAttribute('id', 'audioCtrlsCell') 
@@ -248,12 +248,12 @@ function gridDisplay(){
     //font size increase
   addElement('button', document.getElementById('box h'), ['id', 'fontUp']);
   addElement('img', document.getElementById('fontUp'), ['id', 'fontUpImage'], 
-        ['src', 'https://github.com/koinegreek/koinegreek.github.io/blob/master/images/fontSzUp.png'], ["title", "Increase size of font."]);
+        ['src', '../images/fontSzUp.png'], ["title", "Increase size of font."]);
     // font size decrease
   addElement('div', document.getElementById('wrapper'));
   addElement('button', document.getElementById('box h'), ['id', 'fontDown']);
   addElement('img', document.getElementById('fontDown'), ['id', 'fontDownImage'], 
-        ['src', 'https://github.com/koinegreek/koinegreek.github.io/blob/master/images/fontSzDn.png'], ["title", "Reduce size of font."]);
+        ['src', '../images/fontSzDn.png'], ["title", "Reduce size of font."]);
   
   // row 7 - cell 1 - box i - colours + logo 
   addElement('div', document.getElementById('wrapper'), ['class', 'box i'], ['id', 'box i']);    
@@ -277,12 +277,12 @@ function gridDisplay(){
     // repeat btn
   addElement('button', document.getElementById('myControls'), ['id', 'repeatBtn']);
   addElement('img', document.getElementById('repeatBtn'), ['id', 'repeatPassageImage'], 
-        ['src', 'https://github.com/koinegreek/koinegreek.github.io/blob/master/images/repeatBtn.png'], ["title", "Repeat: 'all' or 'verse' or 'range of verses' => whichever 'mode' you're in."]);
+        ['src', '../images/repeatBtn.png'], ["title", "Repeat: 'all' or 'verse' or 'range of verses' => whichever 'mode' you're in."]);
   
     // previous verse btn
   addElement('button', document.getElementById('myControls'), ['id', 'previousVerse']);
   addElement('img', document.getElementById('previousVerse'), ['id', 'previousVerseImage'], 
-        ['src', 'https://github.com/koinegreek/koinegreek.github.io/blob/master/images/previousVerse.png'], ["title", "Go to previous verse."]);
+        ['src', '../images/previousVerse.png'], ["title", "Go to previous verse."]);
   
     //html controls (this is must be defined - but turned off below)
   addElement('audio', document.getElementById('myControls'), ['id', 'audioID'], ['controls', 'true'], 
@@ -293,17 +293,17 @@ function gridDisplay(){
     // play/pause btn
   addElement('button', document.getElementById('myControls'), ['id', 'playPauseBtn']);
    addElement('img', document.getElementById('playPauseBtn'), ['id', 'playImage'], 
-        ['src', 'https://github.com/koinegreek/koinegreek.github.io/blob/master/images/playBtn.png'], ["title", "Play or pause audio."]);
+        ['src', '../images/playBtn.png'], ["title", "Play or pause audio."]);
 
     // next verse btn
   addElement('button', document.getElementById('myControls'), ['id', 'nextVerse']);
   addElement('img', document.getElementById('nextVerse'), ['id', 'nextVerseImage'], 
-        ['src', 'https://github.com/koinegreek/koinegreek.github.io/blob/master/images/nextVerse.png'], ["title", "Go to next verse."]);
+        ['src', '../images/nextVerse.png'], ["title", "Go to next verse."]);
   
     // last verse btn
   addElement('button', document.getElementById('myControls'), ['id', 'lastVerse']);
   addElement('img', document.getElementById('lastVerse'), ['id', 'lastVerseImage'], 
-        ['src', 'https://github.com/koinegreek/koinegreek.github.io/blob/master/images/lastVerseBtn.png'], ["title", "Go to last verse."]);
+        ['src', '../images/lastVerseBtn.png'], ["title", "Go to last verse."]);
 
     // current time label
   addElement('label', document.getElementById('myControls'), ['id', 'curTimeLabel']);
@@ -312,7 +312,7 @@ function gridDisplay(){
     // volume stuff  
   addElement('button', document.getElementById('myControls'), ['id', 'volBtn']);
   addElement('img', document.getElementById('volBtn'), ['id', 'muteBtnImage'], 
-        ['src', 'https://github.com/koinegreek/koinegreek.github.io/blob/master/images/unMuteBtn.png'], ["title", "Mute."]);
+        ['src', '../images/unMuteBtn.png'], ["title", "Mute."]);
   
   addElement('input', document.getElementById('myControls'), ['id', 'volCtrlSlider'], ['type', 'range'], ['min', '0'],
         ['max', '100'], ['value', '30'], ['step', '1']);
@@ -327,7 +327,7 @@ function gridDisplay(){
 
   // Load the controls.js file after this page is all loaded
     var tag = document.createElement("script");
-    tag.src = "https://github.com/koinegreek/koinegreek.github.io/blob/master/scripts/controls.js";
+    tag.src = "./scripts/controls.js";
     document.getElementsByTagName("head")[0].appendChild(tag);
 
 }              
