@@ -65,30 +65,6 @@ var secretKey = "";
 var AWS;
 var s3;
 
-// ********** temp ****************
-
-aS.addEventListener('change', function(event) {
-  //if(event.request.url === './media/Rafael/05-Acts/Raf_Acts_12.mp3') {
-    // event.respondWith(
-    //     fetch(event.request.url, {
-    //         method: "GET",
-    //         headers: {
-    //             "Authorization": "Bearer myBearerToken",
-    //         },
-    //         redirect: "follow"
-    //     })
-    // );    
-  
-    console.log('hit here')
-
-  //}
-});
-
-
-
-// ********** end temp ****************
-
-
 
 // ******************** load the reader file ******************
 // This is a one-time initialization at startup
@@ -503,6 +479,7 @@ function updateCurrentChapter(){
         
         //aS.src = './BPK_Luke_01.mp3';
         aS.src = fileLocation.ch[selectChapter.selectedIndex-1].soundFile;
+        aS2.src = fileLocation.ch[selectChapter.selectedIndex-1].soundFile2;
         audioID.load(); 
     }    
 }
