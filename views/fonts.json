@@ -2,32 +2,42 @@
     "font": [{
             "fontFamily": "Select Font",
             "txtWindowDefault": false,
-            "consoleDefault": false
+            "consoleDefault": false,
+            "diacritics"    :true
         },
         {
             "fontFamily": "BIBLICAL Uncial",
             "txtWindowDefault": true,
-            "consoleDefault": false
+            "consoleDefault": false,
+            "diacritics"    :true
         },
         {
             "fontFamily": "PAPYRUS Uncial",
             "txtWindowDefault": false,
-            "consoleDefault": false
+            "consoleDefault": false,
+            "diacritics"    :true
         },
         {
             "fontFamily": "Minuscule XI",
             "txtWindowDefault": false,
-            "consoleDefault": false
+            "consoleDefault": false,
+            "diacritics"    :false
         },
         {
             "fontFamily": "Minuscule XV",
             "txtWindowDefault": false,
-            "consoleDefault": false
+            "consoleDefault": false,
+            "diacritics"    :true
         },
         {
             "fontFamily": "Times New Roman",
             "txtWindowDefault": false,
-            "consoleDefault": false
+            "consoleDefault": false,
+            "diacritics"    :true
         }
     ]
 }
+
+
+
+
