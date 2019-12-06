@@ -9,7 +9,7 @@
             "fontFamily": "BIBLICAL Uncial",
             "txtWindowDefault": true,
             "consoleDefault": false,
-            "diacritics"    :true
+            "diacritics"    : false
         },
         {
             "fontFamily": "PAPYRUS Uncial",
@@ -21,7 +21,7 @@
             "fontFamily": "Minuscule XI",
             "txtWindowDefault": false,
             "consoleDefault": false,
-            "diacritics"    :false
+            "diacritics"    :true
         },
         {
             "fontFamily": "Minuscule XV",
