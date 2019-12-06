@@ -35,7 +35,7 @@ var fileLocation = {
         "cuesFile"  : ""
     }
 ]}
-var fontTable = {
+var fontFile = {
     "font": [
      {
         "family"            : "",                
@@ -307,11 +307,25 @@ function clearCueScreen() {
 // use this function to put out text for new cue
 function displayCue(nextCue) {
     
-    if (cueFileAvailable && includeText.checked == true) {
-        var x = cueFile.chapter[nextCue];
-        var textOut = x.book + " " + x.chapter + ":" + x.verseNum + "  " + x.cueText;
-        if (textOut.length > 5){
-            document.getElementById('textSpace').innerHTML = textOut;
+      if (cueFileAvailable && includeText.checked == true ) {
+        var x = cueFile.chapter[nextCue];       
+        var greekText = x.cueText;
+        
+        //console.log(fontFile.font[fontFamilies.selectedIndex])
+        if(fontFamilies.selectedIndex >= 0){
+
+            if (fontFile.font[fontFamilies.selectedIndex].diacritics == false){            
+                //greekText=x.cueText.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+                greekText=x.cueText.normalize("NFD").replace(/[\u0300-\u0307]/g, "");
+                greekText=greekText.normalize("NFD").replace(/[\u0309-\u036f]/g, "");        
+            }
+
+            //var textOut = x.book + " " + x.chapter + ":" + x.verseNum + "  " + x.cueText;
+            var textOut = x.book + " " + x.chapter + ":" + x.verseNum + "  " + greekText;
+            
+            if (textOut.length > 5){ 
+                document.getElementById('textSpace').innerHTML = textOut;
+            }
         }
     }
 }
