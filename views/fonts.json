@@ -15,19 +15,19 @@
             "fontFamily": "PAPYRUS Uncial",
             "txtWindowDefault": false,
             "consoleDefault": false,
-            "diacritics"    :true
+            "diacritics"    :false
         },
         {
             "fontFamily": "Minuscule XI",
             "txtWindowDefault": false,
             "consoleDefault": false,
-            "diacritics"    :true
+            "diacritics"    :false
         },
         {
             "fontFamily": "Minuscule XV",
             "txtWindowDefault": false,
             "consoleDefault": false,
-            "diacritics"    :true
+            "diacritics"    :false
         },
         {
             "fontFamily": "Times New Roman",
