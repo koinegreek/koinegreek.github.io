@@ -10,8 +10,15 @@
 		"firstName"	: "Benjamin",		  		
 		"lastName" 	: "Kantor",
 		"briefName" : "Luke",		
-		"default"	: false,
+		"default"	: true,
 		"file"		: "./views/BPK-Luke.json"
+	},	
+	{
+		"firstName"	: "Benjamin",		  		
+		"lastName" 	: "Kantor",
+		"briefName" : "Acts",		
+		"default"	: true,
+		"file"		: "./views/BPK-Acts.json"
 	},	
 	{
 		"firstName"	: "Benjamin",		  		
@@ -19,8 +26,7 @@
 		"briefName" : "1Tim",		
 		"default"	: false,
 		"file"		: "./views/BPK-1Tim.json"
-	}	
-
+	}		
 ]}
 
 
