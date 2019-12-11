@@ -5,9 +5,9 @@
         "chapter"   : 1,        
         "Greek"     : true,
         "Hebrew"    : false,
-        "soundFile" : "./media/BPK/03-Acts/BPK_Acts_01.ogg",
-        "soundFile2" : "./media/BPK/03-Acts/BPK_Acts_01.mp3",
-        "cuesFile"  : "./media/BPK/03-Acts/BPK_Acts_01.json"
+        "soundFile" : "./media/BPK/05-Acts/BPK_Acts_01.ogg",
+        "soundFile2" : "./media/BPK/05-Acts/BPK_Acts_01.mp3",
+        "cuesFile"  : "./media/BPK/05-Acts/BPK_Acts_01.json"
     },
    {
         "reader"    : "BPK",                
@@ -15,9 +15,9 @@
         "chapter"   : 2,        
         "Greek"     : true,
         "Hebrew"    : false,
-        "soundFile" : "./media/BPK/03-Acts/BPK_Acts_02.ogg",
-        "soundFile2" : "./media/BPK/03-Acts/BPK_Acts_02.mp3",
-        "cuesFile"  : "./media/BPK/03-Acts/BPK_Acts_02.json"
+        "soundFile" : "./media/BPK/05-Acts/BPK_Acts_02.ogg",
+        "soundFile2" : "./media/BPK/05-Acts/BPK_Acts_02.mp3",
+        "cuesFile"  : "./media/BPK/05-Acts/BPK_Acts_02.json"
     }
    
 ]}
