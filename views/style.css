@@ -120,8 +120,7 @@ body {
         padding-top: 20px;
         background-color: powderblue;
         color: black;
-        height: 250px auto;
-        resize: both;
+        height: 250px auto;        
         overflow: auto;
 
     }
