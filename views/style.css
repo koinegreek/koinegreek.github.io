@@ -77,6 +77,7 @@ body {
         resize: both;
         overflow: auto;
         margin: 0 auto;
+        max-height: 600px;
     }
 
     .box {
@@ -120,7 +121,7 @@ body {
         padding-top: 20px;
         background-color: powderblue;
         color: black;
-        height: 250px auto;        
+        max-height: 350px ;        
         overflow: auto;
 
     }
