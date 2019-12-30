@@ -193,7 +193,12 @@ body {
     }
 }
 
-
+@media only screen 
+         and (max-width: 1024px) {
+                .wrapper {
+                    width:90%;
+            }
+    } 
 
 /*Here - below -s the stuff imported from the old style file (main.css)*/
 
