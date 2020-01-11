@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./views/fonts.css" type="text/css">
   </head>
   <body id='bodyID' onload='main()'>
+    <label>-//-</label>
     <table id='table1'></table>     
     
     <!-- START of html to be replaced by index.js -->  
@@ -28,9 +29,7 @@
         //       document.getElementById('textSpace').innerHTML = msg
         //     }
         // }
-
         
-
         function main(){
           if ('CSS' in window && CSS.supports('display', 'grid')) {
               gridDisplay();
