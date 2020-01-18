@@ -188,7 +188,7 @@ function gridDisplay(){
   addElement('label', document.getElementById('box aii'), ['id', 'textStuff']);  
   addElement('label', document.getElementById('box aii'), ['id', 'textStuff2']);  
   addElement('label', document.getElementById('box aii'), ['id', 'helpText']);  
-  helpText.innerHTML = "?"
+  helpText.innerHTML = "-?"
 
   textStuff2.innerHTML= "Screen width: " + screen.width + "; height: " + screen.height + "; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
 
