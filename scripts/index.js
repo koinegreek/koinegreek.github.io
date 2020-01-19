@@ -190,7 +190,7 @@ function gridDisplay(){
   addElement('label', document.getElementById('box aii'), ['id', 'helpText']);  
   helpText.innerHTML = "?"
 
-  textStuff2.innerHTML= "Screen width: " + screen.width + "; height: " + screen.height + "; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+  //textStuff2.innerHTML= "Screen width: " + screen.width + "; height: " + screen.height + "; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
 
   // row 2 - first cell (span=2) - box a - Select Reader
   addElement('div', document.getElementById('wrapper'), ['class', 'box a'], ['id', 'box a']);
