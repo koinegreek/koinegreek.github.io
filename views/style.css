@@ -221,19 +221,10 @@ body {
 
     }
 
-
-@media only screen 
-         and (max-width: 600px) {
-            /* For mobile phones: */
-                .wrapper {
-                    width:90%;
-            }
-    } 
-
-@media only screen 
+    @media only screen 
          and (max-width: 1024px) {
                 .wrapper {
-                    width:90%;
+                    width:80%;
             }
     } 
 }
@@ -283,7 +274,7 @@ body {
 }
 
 #textStuff2,
-#textStuff3 {
+#textStuff {
     margin-left: 15px;
     font-size: 10px;
 }
