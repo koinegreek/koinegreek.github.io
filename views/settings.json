@@ -6,9 +6,9 @@
         "consoleColour"     : "#ebf9ff",
         "consoleTextColour" : "#000000",
         "consoleFontFamily" : "Times New Roman",
-        "pageColour"        : "#ebf9ff",  
+        "pageColour"        : "#ffffff",  
         "readerBookLabel"   : "Reader: BPK<br>Book",
-        "gridLines"         : "#ebf9ff"
+        "gridLines"         : "#ffffff"
     }   
 ]}
 
