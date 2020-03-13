@@ -1,9 +1,9 @@
 {"settings": [	 
       {
-        "screenColour"      : "#ebf9ff",              
+        "screenColour"      : "#ffffff",              
         "scrTextColour"     : "#000000",
         "screenImage"       : "./images/parchment-TD-435347_2.png",
-        "consoleColour"     : "#ebf9ff",
+        "consoleColour"     : "#ffffff",
         "consoleTextColour" : "#000000",
         "consoleFontFamily" : "Times New Roman",
         "pageColour"        : "#ffffff",  
