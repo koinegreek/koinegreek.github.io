@@ -54,7 +54,8 @@ var defaultSettings = {
         "consoleFontFamily" : "",
         "pageColour"        : "",  
         "readerBookLabel"   : "",
-        "gridLines"         : ""
+        "gridLines"         : "",
+        "initialDisplay"    : "Initial Display test"
     }    
 ]}
 
@@ -150,6 +151,8 @@ function loadDefaultSettings (fileToLoad){
                 readerBookLabel.innerHTML = settingsFile.settings[0].readerBookLabel + "<br>";
                 // page colour
                 bodyID.style.backgroundColor = settingsFile.settings[0].pageColour;
+                // initial Display
+                textSpace.innerHTML = settingsFile.settings[0].initialDisplay;
             }
                 
         }
