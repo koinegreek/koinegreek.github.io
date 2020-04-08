@@ -1,14 +1,15 @@
 {"settings": [	 
       {
-        "screenColour"      : "#ffffff",              
+        "screenColour"      : "#ebf9ff",              
         "scrTextColour"     : "#000000",
         "screenImage"       : "./images/parchment-TD-435347_2.png",
-        "consoleColour"     : "#ffffff",
+        "consoleColour"     : "#ebf9ff",
         "consoleTextColour" : "#000000",
         "consoleFontFamily" : "Times New Roman",
-        "pageColour"        : "#ffffff",  
+        "pageColour"        : "#ebf9ff",  
         "readerBookLabel"   : "Reader: BPK<br>Book",
-        "gridLines"         : "#ffffff"
+        "gridLines"         : "#ebf9ff",
+        "initialDisplay"    : "Mark 1:1 Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ χριστοῦ, υἱοῦ τοῦ θεοῦ."
     }   
 ]}
 
