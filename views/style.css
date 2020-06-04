@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #4e5f7a;
+    background-color: #ffffff;
 }
 
 
@@ -27,7 +27,7 @@ body {
         font-size: 32px;
         padding-left: 20px;
         padding-right: 20px;
-        background-color: powderblue;
+        background-color: white;
         color: black;
         height: 300px auto;
         vertical-align: top;
@@ -73,7 +73,7 @@ body {
         max-width: 1200px;
         /* grid-template-columns: 100px 100px 600px 30px auto;*/
         grid-template-columns: 1.2fr 1.2fr 7.6fr 0.3fr auto;
-        background-color: #4e5f7a;
+        background-color: #fff;
         color: #fff;
         resize: both;
         overflow: auto;
@@ -125,7 +125,7 @@ body {
         padding-left: 20px;
         padding-right: 20px;
         padding-top: 20px;
-        background-color: powderblue;
+        background-color: white;
         color: black;
         max-height: 350px auto;        
         overflow: auto;
